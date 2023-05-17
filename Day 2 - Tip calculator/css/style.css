@@ -1,0 +1,21 @@
+.container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 50%;
+    padding: 2rem 0 2rem 0;
+    margin: auto;
+    border-radius: 50px;
+    background: linear-gradient(145deg, #ffffff, #e6e6e6);
+    box-shadow:  20px 20px 60px #a1a1a1,
+    -20px -20px 60px #ffffff;
+    outline: dashed 1px black;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-100%, 50%);
+    font-family: Helvetica;
+}
+
+#tip-container {padding: 2%;}
