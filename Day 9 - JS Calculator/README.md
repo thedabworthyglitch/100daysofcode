@@ -1,0 +1,3 @@
+# About
+
+Calculator in JS!
